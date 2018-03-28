@@ -2,3 +2,7 @@ test1/Pipfile*
 test2/Pipfile*
 ISSUE.md
 .vagrant/**/*
+test2/venv3/**/*
+.DS_Store
+*.pyc
+__pycache__/**/*
