@@ -1,0 +1,4 @@
+test1/Pipfile*
+test2/Pipfile*
+ISSUE.md
+.vagrant/**/*
